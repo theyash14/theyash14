@@ -67,12 +67,12 @@
 <hr>
 
 <p align="center">
-  <b>Thanks for your visiting my profile! If you like my work, consider supporting me. 😊</b>
+  <b>If you like my work, consider supporting me. 😊</b>
 </p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/theyash"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="theyash" /></a>
-  <a href="https://ko-fi.com/yash14"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="175" alt="yash14" /></a>
+  <!-- <a href="https://ko-fi.com/yash14"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="175" alt="yash14" /></a> -->
 </p>
 
 <br><br>
