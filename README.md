@@ -2,7 +2,10 @@
 
 <div id="header" align="center">
 
-<h1>Hi there 👋, I'm Yashwanth !<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>
+  Hi there 👋, I'm Yashwanth !
+  <!-- <img src="./assets/giphy.gif" width="35px" alt="GIF"> -->
+</h1>
 
 </div>
 
