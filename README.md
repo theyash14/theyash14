@@ -45,7 +45,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,postgresql,git,bash,linux,python,rust,ros,docker&perline=10" />
+<img src="https://skillicons.dev/icons?i=ros,python,rust,html,css,javascript,ts,nodejs,postgresql,git,linux,docker&perline=10" />
 </a>
 
 </div>
