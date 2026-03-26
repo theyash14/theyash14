@@ -24,7 +24,6 @@
 - 🔭 I’m currently working on Robotics
 - 🌱 I’m currently learning Robotics
 - 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2025 Goals: Learn ROS and land a job in Robotics
 
 <br>
 
