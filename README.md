@@ -1,87 +1,67 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<div id="header" align="center">
-
-<h1>
-  Hi there 👋, I'm Yashwanth !
-  <!-- <img src="./assets/giphy.gif" width="35px" alt="GIF"> -->
-  
-</h1>
-
-</div>
-
-<br>
-
-<div>
-  <!--
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
-  -->
-</div>
-
-### 💫 About Me
-
-- 🎓 I'm a Software Engineer transitioning as Robotics Software Engineer
-- 🔭 I’m currently working on Robotics
-- 🌱 I’m currently learning Robotics
-- 👯 I’m looking to collaborate with open source enthusiasts
-
-<br>
-
-## 🌐 Socials:
-
-<div align="center">
-
-  <a href="https://instagram.com/theyash14_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/theyash14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/theyash14_" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
-</div>
-
-<br>
-
-
-## 💻 Tech Stack:
-
-<div align="center">
-
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=ros,python,rust,html,css,javascript,ts,nodejs,postgresql,git,linux,docker&perline=10" />
-</a>
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theyash14&theme=github_dark">
-<!--
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theyash14&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theyash14&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theyash14&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theyash14&theme=radical&utcOffset=8">
--->
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=theyash14&theme=dark&show_icons=true&hide_border=true&include_all_commits=false&count_private=false">
-  <img height="169em" src="https://streak-stats.demolab.com?user=theyash14&theme=dark&hide_border=true">
-</div><br>
-
-<hr>
-
 <p align="center">
-  <b>If you like my work, consider supporting me. 😊</b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=Yashwanth+R&subtitle=Backend+engineer+building+toward+robotics&logo=data:image/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xNiAwIDEyOCAxMjgiPjxwYXRoIGZpbGw9IiNlOWU4ZTQiIGQ9Ik0zMiA2NEgwVjBoMzJ2NjRaTTk2IDY0SDY0VjBoMzJ2NjRaTTY0IDEyOEgzMlY2NGgzMnY2NFoiLz48L3N2Zz4%3D&mode=dark&align=left&font=geist-mono&border=false" />
+    <img alt="Yashwanth R, backend engineer building toward robotics" src="https://shieldcn.dev/header/graph.svg?title=Yashwanth+R&subtitle=Backend+engineer+building+toward+robotics&logo=data:image/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xNiAwIDEyOCAxMjgiPjxwYXRoIGZpbGw9IiMxMTExMTAiIGQ9Ik0zMiA2NEgwVjBoMzJ2NjRaTTk2IDY0SDY0VjBoMzJ2NjRaTTY0IDEyOEgzMlY2NGgzMnY2NFoiLz48L3N2Zz4%3D&mode=light&align=left&font=geist-mono&border=false" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/theyash"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="theyash" /></a>
-  <!-- <a href="https://ko-fi.com/yash14"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="175" alt="yash14" /></a> -->
+  <a href="https://theyash.in"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/theyash.in.svg?logo=ri:RiGlobalLine&variant=secondary&mode=dark" /><img alt="Website" src="https://shieldcn.dev/badge/theyash.in.svg?logo=ri:RiGlobalLine&variant=secondary&mode=light" /></picture></a>
+  <a href="https://linkedin.com/in/theyash14"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn.svg?logo=ri:RiLinkedinBoxFill&variant=secondary&mode=dark" /><img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn.svg?logo=ri:RiLinkedinBoxFill&variant=secondary&mode=light" /></picture></a>
+  <a href="https://x.com/theyash14_"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/X.svg?logo=x&variant=secondary&mode=dark" /><img alt="X (Twitter)" src="https://shieldcn.dev/badge/X.svg?logo=x&variant=secondary&mode=light" /></picture></a>
+  <a href="https://instagram.com/theyash14_"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Instagram.svg?logo=instagram&variant=secondary&mode=dark" /><img alt="Instagram" src="https://shieldcn.dev/badge/Instagram.svg?logo=instagram&variant=secondary&mode=light" /></picture></a>
 </p>
 
-<br><br>
+I'm a backend engineer from Chennai with 4+ years of building and running production systems. I studied **mechatronics**, and now I'm coming back to it through **robotics software**.
 
-<hr>
+I like software that's easy to reason about when it breaks. I'm happiest tracing a bug from the app through the database to the infrastructure, and I tend to build small tools that take the tedium out of shipping.
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=theyash14" alt="Total Github views" />
+### Currently
+
+- 🤖 Learning **ROS 2** and bringing backend habits (observability, testing, clean interfaces) to robot software
+- 🤝 Looking for open-source robotics projects to contribute to
+
+### Projects
+
+- ⚔️ **ClashMate**: an Android app for tracking Clash of Clans progress. FastAPI + PostgreSQL backend, Rust/Dioxus frontend.
+- 🌐 **[theyash.in](https://theyash.in)**: my portfolio, built with Astro and plain CSS.
+
+### Tech I use
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Python.svg?logo=python&variant=secondary&mode=dark" /><img alt="Python" src="https://shieldcn.dev/badge/Python.svg?logo=python&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Rust.svg?logo=rust&variant=secondary&mode=dark" /><img alt="Rust" src="https://shieldcn.dev/badge/Rust.svg?logo=rust&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/TypeScript.svg?logo=typescript&variant=secondary&mode=dark" /><img alt="TypeScript" src="https://shieldcn.dev/badge/TypeScript.svg?logo=typescript&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/C%2B%2B.svg?logo=cplusplus&variant=secondary&mode=dark" /><img alt="C++" src="https://shieldcn.dev/badge/C%2B%2B.svg?logo=cplusplus&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/ROS_2.svg?logo=ros&variant=secondary&mode=dark" /><img alt="ROS 2" src="https://shieldcn.dev/badge/ROS_2.svg?logo=ros&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/FastAPI.svg?logo=fastapi&variant=secondary&mode=dark" /><img alt="FastAPI" src="https://shieldcn.dev/badge/FastAPI.svg?logo=fastapi&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/PostgreSQL.svg?logo=postgresql&variant=secondary&mode=dark" /><img alt="PostgreSQL" src="https://shieldcn.dev/badge/PostgreSQL.svg?logo=postgresql&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Docker.svg?logo=docker&variant=secondary&mode=dark" /><img alt="Docker" src="https://shieldcn.dev/badge/Docker.svg?logo=docker&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Linux.svg?logo=linux&variant=secondary&mode=dark" /><img alt="Linux" src="https://shieldcn.dev/badge/Linux.svg?logo=linux&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/GitHub_Actions.svg?logo=githubactions&variant=secondary&mode=dark" /><img alt="GitHub Actions" src="https://shieldcn.dev/badge/GitHub_Actions.svg?logo=githubactions&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Astro.svg?logo=astro&variant=secondary&mode=dark" /><img alt="Astro" src="https://shieldcn.dev/badge/Astro.svg?logo=astro&variant=secondary&mode=light" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Git.svg?logo=git&variant=secondary&mode=dark" /><img alt="Git" src="https://shieldcn.dev/badge/Git.svg?logo=git&variant=secondary&mode=light" /></picture>
+</p>
+
+### Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/chart/github/commits/theyash14.svg?title=Contributions&mode=dark&bg=transparent&border=false&height=260" />
+    <img alt="Contribution history for theyash14" src="https://shieldcn.dev/chart/github/commits/theyash14.svg?title=Contributions&mode=light&bg=transparent&border=false&height=260" />
+  </picture>
+</p>
+
+### Let's talk
+
+I'm open to **robotics and backend roles**, and always happy to talk shop about robots, Rust or backend reliability. The quickest way to reach me is on [LinkedIn](https://linkedin.com/in/theyash14).
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/theyash"><img alt="Buy me a coffee" src="https://shieldcn.dev/badge/Buy_me_a_coffee-FFDD00.svg?logo=buymeacoffee&variant=branded&size=lg" /></a>
+  <br />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/theyash14.svg?base=293&variant=ghost&size=xs&mode=dark" /><img alt="Profile views" src="https://shieldcn.dev/views/user/theyash14.svg?base=293&variant=ghost&size=xs&mode=light" /></picture>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
